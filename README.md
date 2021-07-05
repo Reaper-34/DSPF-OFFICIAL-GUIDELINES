@@ -12,4 +12,3 @@ S10 - Raid/Lockdown/Riot/Evacuation Procedures
 S11 - Formations
 S12 - CG-51 Infectious Disease
 S13 - Conclusion
-
